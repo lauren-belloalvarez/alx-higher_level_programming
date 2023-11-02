@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
-for num in range (0, 100, 1):
+for num in range(0, 100, 1):
     if num == 99:
         print("{}".format(number))
-    else
+    else:
     print("{:02}".format(number), end=", ")
